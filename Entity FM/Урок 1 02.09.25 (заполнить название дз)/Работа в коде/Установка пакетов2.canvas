@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"2905086bf4555f6b","type":"file","file":"Урок 1 02.09.25 (заполнить название дз)/картинки/Microsoft.EntityFrameworkCore.Design.png","x":-620,"y":-1060,"width":1078,"height":160},
+		{"id":"c042e3712e0519e7","type":"file","file":"Урок 1 02.09.25 (заполнить название дз)/картинки/Microsoft.EntityFrameworkCore.SqLServer.png","x":-622,"y":-780,"width":1080,"height":183},
+		{"id":"c1de01f73b1f88c2","type":"text","text":"Scafold","x":-622,"y":-580,"width":250,"height":60},
+		{"id":"5e2b7fe83afa720f","type":"text","text":"оба","x":-620,"y":-880,"width":250,"height":60},
+		{"id":"9cdcad032bd84031","type":"text","text":"Миграции","x":-620,"y":-1180,"width":250,"height":60},
+		{"id":"46e78dbf40c6c1e5","type":"file","file":"Урок 1 02.09.25 (заполнить название дз)/Работа в коде/Установка пакетов.md","x":640,"y":-1080,"width":400,"height":500},
+		{"id":"f28d22bd06c9796b","type":"file","file":"Урок 1 02.09.25 (заполнить название дз)/картинки/Нугет.png","x":240,"y":-160,"width":920,"height":1155},
+		{"id":"7cd64fd164eba260","type":"file","file":"Урок 1 02.09.25 (заполнить название дз)/картинки/Microsoft.EntityFrameworkCoreTools.png","x":-639,"y":-480,"width":1114,"height":160}
+	],
+	"edges":[
+		{"id":"f8e356716b9aa117","fromNode":"46e78dbf40c6c1e5","fromSide":"bottom","toNode":"f28d22bd06c9796b","toSide":"top"},
+		{"id":"aa8e2fd8ad9153bf","fromNode":"c042e3712e0519e7","fromSide":"top","toNode":"2905086bf4555f6b","toSide":"bottom"},
+		{"id":"5e275b86043b19fb","fromNode":"c042e3712e0519e7","fromSide":"bottom","toNode":"7cd64fd164eba260","toSide":"top"}
+	]
+}

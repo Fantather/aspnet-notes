@@ -1,0 +1,2 @@
+Что-то про конфигурации, что предложили добавить в экзаменационное
+[https://github.com/AliceBit2020/Configuration.git](https://github.com/AliceBit2020/Configuration.git "https://github.com/alicebit2020/configuration.git")
